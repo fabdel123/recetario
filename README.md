@@ -1,1 +1,1 @@
-"# recetario" 
+"Pruebas de Git - Coursera" 
